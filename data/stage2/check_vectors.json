@@ -1,0 +1,17 @@
+{
+  "source": "JPL Horizons API, geometric ICRF, Earth center 399, JD TDB 2461254.5, KM-S; response source DE441",
+  "files": [
+    {
+      "sha256": "c3847534f15896e750ca45ee036a33e73d7d49a7303e00bee30bf44364b03802",
+      "bytes": 6537,
+      "body": "sun",
+      "path": "data/stage2/horizons_sun.txt"
+    },
+    {
+      "sha256": "9423b4ec0652a0f997bd4f808567377d5ffd96d89cfc21117f8b5d557178af10",
+      "bytes": 6653,
+      "body": "moon",
+      "path": "data/stage2/horizons_moon.txt"
+    }
+  ]
+}

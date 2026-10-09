@@ -1,0 +1,9 @@
+{
+  "name": "GSI RNXCMP 4.2.0 Windows 64-bit CRX2RNX",
+  "retrieved_utc": "2026-09-06T22:24:46.117377+00:00",
+  "source": "https://terras.gsi.go.jp/ja/crx2rnx/RNXCMP_4.2.0_Windows_mingw_64bit.zip",
+  "package_sha256": "58080794cda5a14d7088b921fd75728257e70182d242573e6926d7f8efaa3eae",
+  "exe_sha256": "bd8f57ce6a314764305a038816e643d9b7d8759f702197108e65fb732e7f1cca",
+  "exe_bytes": 338911,
+  "scope": "Project-local file decompression only; never estimates orbits or station coordinates"
+}

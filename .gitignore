@@ -1,0 +1,41 @@
+# Python
+__pycache__/
+*.pyc
+
+# Created at run time
+/runs/
+/Opus_Fork/runs/
+/Opus_Fork/results/
+/claude/runs/
+
+# Downloaded inputs (see SETUP.md and docs/DATA_SOURCES.md); a few small tracked files are kept
+/claude/data/
+/Opus_Fork/datastore/*
+!/Opus_Fork/datastore/README.md
+!/Opus_Fork/datastore/static/
+/Opus_Fork/datastore/static/*
+!/Opus_Fork/datastore/static/iers_ch7/
+!/Opus_Fork/datastore/static/iers_ch8/
+!/Opus_Fork/datastore/static/igs_satellite_metadata.snx
+!/Opus_Fork/datastore/static/igs_satellite_metadata.snx.json
+/data/*
+!/data/stage2/
+/data/stage2/*
+!/data/stage2/check_vectors.json
+!/data/stage2/horizons_moon.txt
+!/data/stage2/horizons_sun.txt
+
+# Observation and orbit files, except the published examples
+*.crx
+*.crx.gz
+*.rnx
+*.rnx.gz
+*.sp3
+*.SP3
+!/deliverables/sp3/*/*.SP3
+
+# Credentials
+.netrc
+.env
+*.pem
+*.key

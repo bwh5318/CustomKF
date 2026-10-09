@@ -1,0 +1,22 @@
+{
+  "role": "static_satellite_metadata",
+  "source_url": "https://files.igs.org/pub/station/general/igs_satellite_metadata.snx",
+  "retrieved_utc": "2026-09-22T20:30:13.479190+00:00",
+  "sha256": "191f7e04cc84e68a102547831f6760e4e452798306113e27029bbde1d6f3e824",
+  "bytes": 273931,
+  "header": "%=SNX 2.02 DLR 26:245:31821 DLR 78:053:00000 00:000:00000 P 00000 0",
+  "blocks": [
+    "+FILE/COMMENT",
+    "+FILE/REFERENCE",
+    "+SATELLITE/COM",
+    "+SATELLITE/ECCENTRICITY",
+    "+SATELLITE/FREQUENCY_CHANNEL",
+    "+SATELLITE/IDENTIFIER",
+    "+SATELLITE/MASS",
+    "+SATELLITE/PLANE",
+    "+SATELLITE/PRN",
+    "+SATELLITE/TX_POWER"
+  ],
+  "failed_mirrors": [],
+  "use": "Estimation-side static input for physical ERP/antenna-thrust modelling (T2.1). Not a reference product; no orbit information."
+}
