@@ -38,7 +38,7 @@ first drawn untouched by a pre-registered seeded stream:
 - **Where NGA is still better:** the along-track component, on several dates.
 
 The full account, with every improvement, every failure and the scope of each claim, is the report:
-[GPS_POD_PROGRESS_REPORT.pdf](GPS_POD_PROGRESS_REPORT.pdf) (Revision 5).
+[GPS_POD_PROGRESS_REPORT.pdf](GPS_POD_PROGRESS_REPORT.pdf) (final report, Revision 7).
 
 ## Start here
 

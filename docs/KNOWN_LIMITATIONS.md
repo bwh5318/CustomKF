@@ -58,7 +58,7 @@ drivers). They are kept as a record of what was run.
 
 ## Where the details are
 
-- Report: `GPS_POD_PROGRESS_REPORT.pdf` (Revision 5), pages 22-23.
+- Report: `GPS_POD_PROGRESS_REPORT.pdf` (final report, Revision 7), sections 21-22 (pages 22-23).
 - Corrections to earlier claims: the correction index at the end of `docs/RESULTS_PHASE2.md`.
 - Result write-ups: `docs/RESULTS_PHASE1.md`, `docs/RESULTS_PHASE2.md` and `Opus_Fork/experiments/*/`.
 - Reviews and the backlog: kept in the private working repository.
